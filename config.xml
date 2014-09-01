@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.rajendra.gavit" versionCode="1" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.balasaheb.thorat" versionCode="1" version="1.0.0">
 
-    <name>Rajendra Gavit</name>
+    <name>Balasaheb Thorat</name>
 
     <description>
         Politician's App
     </description>
 
-    <author href="emahapolitician.in" email="rajendra1gavit@gmail.com">
+    <author href="emahapolitician.in" email="info@wohlig.com">
         E Maha Politician
     </author>
     <preference name="phonegap-version" value="3.5.0" />
